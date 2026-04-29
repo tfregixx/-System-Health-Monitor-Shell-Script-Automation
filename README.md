@@ -22,16 +22,16 @@ Ensure the following are installed:
 
 🛠️ Technologies Used
 
->Frontend
+>Frontend:
 HTML5
 CSS3
 JavaScript
 
->Backend
+>Backend:
 Python (Flask)
 Bash Shell Script
 
->Tools
+>Tools:
 VS Code
 Git & GitHub
 Git Bash / Linux Terminal
@@ -111,6 +111,4 @@ This project is for educational purposes. Free to use with attribution.
 
 🔗 Repository Clone
 git clone https://github.com/your-username/system-health-monitor.git
-Script collects system data using Linux commands
-Data is saved in a log file
-Frontend fetches and displays the report
+
